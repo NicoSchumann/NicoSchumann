@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Nico
 - 🌱 I’m currently learning principle techniques about the C++ language.
-- 💞️ I’m looking to collaborate on easy to understanding projects where I could enhance my knowledge.
-- 📫 You can contact me by nico.schumann@startmail.com
+- 💞️ I’m looking to collaborate on easy to understand projects where I could enhance my knowledge.
 
 <!---
 NicoSchumann/NicoSchumann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
